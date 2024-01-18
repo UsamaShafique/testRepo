@@ -19,4 +19,12 @@ NEXA is a chain agnostic token standard, enabling tokens & NFTs to be native and
 1. Clone the repository:
 ```bash
 https://github.com/NEXA-NETWORK/nexa-frontend.git
-
+```
+1. Navigate to the project directory:
+2. Install dependencies:
+```bash
+yarn install
+```
+Start the development server:
+```bash
+yarn start
