@@ -30,3 +30,14 @@ Start the development server:
 yarn start
 ```
 The application will be accessible at http://localhost:3000 by default.
+
+## Usage
+
+### Setup your env
+
+```bash
+REACT_APP_CHAINS_ENV
+REACT_APP_API_URL
+REACT_APP_MORALIS_KEY
+REACT_APP_INFURA_KEY
+```
